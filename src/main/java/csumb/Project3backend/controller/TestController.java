@@ -1,4 +1,4 @@
-package csumb.Project3backend.Controllers;
+package csumb.project3backend.controllers;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

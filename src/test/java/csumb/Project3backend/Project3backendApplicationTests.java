@@ -1,4 +1,4 @@
-package csumb.Project3backend;
+package csumb.project3backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -6,7 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 
 @SpringBootTest
-class Project3backendApplicationTests {
+class project3backendApplicationTests {
 
 	@Test
 	void contextLoads() {
