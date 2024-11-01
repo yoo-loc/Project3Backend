@@ -1,4 +1,4 @@
-package csumb.project3backend.config;
+package csumb.Project3backend.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

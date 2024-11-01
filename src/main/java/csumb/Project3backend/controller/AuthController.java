@@ -1,4 +1,4 @@
-package csumb.project3backend.controller;
+package csumb.Project3backend.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package csumb.project3backend;
+package csumb.Project3backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

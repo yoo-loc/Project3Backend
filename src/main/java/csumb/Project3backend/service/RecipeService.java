@@ -1,10 +1,11 @@
-package csumb.project3backend.service;
+package csumb.Project3backend.service;
 
 import csumb.project3backend.model.Recipe;
 import csumb.project3backend.repository.RecipeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;
+
 
 @Service
 public class RecipeService {
